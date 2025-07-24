@@ -1,0 +1,21 @@
+# STM32CubeIDE
+Debug/
+Release/
+.settings/
+.mxproject
+.metadata/
+.mxrepository/
+*.launch
+
+# Системные файлы
+Thumbs.db
+.DS_Store
+
+# Бинарные файлы
+*.bin
+*.hex
+*.elf
+*.map
+*.lst
+*.o
+*.d
