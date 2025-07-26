@@ -30,7 +30,7 @@
 
 
 ## Изображения проекта
-![Пример интерфейса ClimateControlStation](images/main.png) 
+![Пример интерфейса ClimateControlStation](images/main_mon.png) 
 Рис. 1: Главный экран системы
 
 ![Пример интерфейса ClimateControlStation](images/set.png) 
